@@ -15,6 +15,20 @@
 		6C3D81ED1E5648410003C091 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C3D81EB1E5648410003C091 /* Main.storyboard */; };
 		6C3D81EF1E5648410003C091 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C3D81EE1E5648410003C091 /* Assets.xcassets */; };
 		6C3D81F21E5648410003C091 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C3D81F01E5648410003C091 /* LaunchScreen.storyboard */; };
+		6C56D6851E63ABA400912A0E /* jg-032316-sfx-8-bit-pong-sound-2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6C56D67E1E63ABA400912A0E /* jg-032316-sfx-8-bit-pong-sound-2.mp3 */; };
+		6C56D6861E63ABA400912A0E /* jg-032316-sfx-ping-pong-paddle-hitting-ball.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6C56D67F1E63ABA400912A0E /* jg-032316-sfx-ping-pong-paddle-hitting-ball.mp3 */; };
+		6C56D6871E63ABA400912A0E /* ping-pong-3_M1dh_fVu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6C56D6801E63ABA400912A0E /* ping-pong-3_M1dh_fVu.mp3 */; };
+		6C56D6881E63ABA400912A0E /* jg-032316-sfx-fast-heartbeat-1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6C56D6811E63ABA400912A0E /* jg-032316-sfx-fast-heartbeat-1.mp3 */; };
+		6C56D6891E63ABA400912A0E /* water-movement-bubbles_MyoBQ9VO.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6C56D6821E63ABA400912A0E /* water-movement-bubbles_MyoBQ9VO.mp3 */; };
+		6C56D68A1E63ABA400912A0E /* bubble-cartoon-slide-fast_MkO4sHNd.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6C56D6831E63ABA400912A0E /* bubble-cartoon-slide-fast_MkO4sHNd.mp3 */; };
+		6C56D68B1E63ABA400912A0E /* shine-ding_GyZLjr4O.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6C56D6841E63ABA400912A0E /* shine-ding_GyZLjr4O.mp3 */; };
+		6CA5C2921E56A488009DD1E2 /* GameOverScreen.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6CA5C2911E56A488009DD1E2 /* GameOverScreen.sks */; };
+		6CA5C2941E56A6E1009DD1E2 /* Menu.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6CA5C2931E56A6E1009DD1E2 /* Menu.sks */; };
+		6CB626D91E6451C400E63166 /* jg-032316-sfx-elearning-pop-up-sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6CB626D81E6451C400E63166 /* jg-032316-sfx-elearning-pop-up-sound.mp3 */; };
+		6CB626DB1E6452BD00E63166 /* bottles-clink-1_Gk_ETbEO.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6CB626DA1E6452BD00E63166 /* bottles-clink-1_Gk_ETbEO.mp3 */; };
+		6CB626DD1E6453A500E63166 /* cartoon-voice-male-boo-hoo-hoo-hoo_GkwGRLEu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6CB626DC1E6453A500E63166 /* cartoon-voice-male-boo-hoo-hoo-hoo_GkwGRLEu.mp3 */; };
+		6CD264031E56AB11001950EA /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CD264021E56AB11001950EA /* Menu.swift */; };
+		6CD264291E56B694001950EA /* GameOverScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CD264281E56B694001950EA /* GameOverScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +42,20 @@
 		6C3D81EE1E5648410003C091 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6C3D81F11E5648410003C091 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6C3D81F31E5648410003C091 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6C56D67E1E63ABA400912A0E /* jg-032316-sfx-8-bit-pong-sound-2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "jg-032316-sfx-8-bit-pong-sound-2.mp3"; sourceTree = "<group>"; };
+		6C56D67F1E63ABA400912A0E /* jg-032316-sfx-ping-pong-paddle-hitting-ball.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "jg-032316-sfx-ping-pong-paddle-hitting-ball.mp3"; sourceTree = "<group>"; };
+		6C56D6801E63ABA400912A0E /* ping-pong-3_M1dh_fVu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ping-pong-3_M1dh_fVu.mp3"; sourceTree = "<group>"; };
+		6C56D6811E63ABA400912A0E /* jg-032316-sfx-fast-heartbeat-1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "jg-032316-sfx-fast-heartbeat-1.mp3"; sourceTree = "<group>"; };
+		6C56D6821E63ABA400912A0E /* water-movement-bubbles_MyoBQ9VO.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "water-movement-bubbles_MyoBQ9VO.mp3"; sourceTree = "<group>"; };
+		6C56D6831E63ABA400912A0E /* bubble-cartoon-slide-fast_MkO4sHNd.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "bubble-cartoon-slide-fast_MkO4sHNd.mp3"; sourceTree = "<group>"; };
+		6C56D6841E63ABA400912A0E /* shine-ding_GyZLjr4O.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "shine-ding_GyZLjr4O.mp3"; sourceTree = "<group>"; };
+		6CA5C2911E56A488009DD1E2 /* GameOverScreen.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameOverScreen.sks; sourceTree = "<group>"; };
+		6CA5C2931E56A6E1009DD1E2 /* Menu.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Menu.sks; sourceTree = "<group>"; };
+		6CB626D81E6451C400E63166 /* jg-032316-sfx-elearning-pop-up-sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "jg-032316-sfx-elearning-pop-up-sound.mp3"; sourceTree = "<group>"; };
+		6CB626DA1E6452BD00E63166 /* bottles-clink-1_Gk_ETbEO.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "bottles-clink-1_Gk_ETbEO.mp3"; sourceTree = "<group>"; };
+		6CB626DC1E6453A500E63166 /* cartoon-voice-male-boo-hoo-hoo-hoo_GkwGRLEu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "cartoon-voice-male-boo-hoo-hoo-hoo_GkwGRLEu.mp3"; sourceTree = "<group>"; };
+		6CD264021E56AB11001950EA /* Menu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
+		6CD264281E56B694001950EA /* GameOverScreen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameOverScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,15 +88,29 @@
 		6C3D81E01E5648410003C091 /* ScreenChanges */ = {
 			isa = PBXGroup;
 			children = (
-				6C3D81E11E5648410003C091 /* AppDelegate.swift */,
 				6C3D81E31E5648410003C091 /* GameScene.sks */,
-				6C3D81E51E5648410003C091 /* Actions.sks */,
 				6C3D81E71E5648410003C091 /* GameScene.swift */,
+				6CD264281E56B694001950EA /* GameOverScreen.swift */,
+				6CA5C2911E56A488009DD1E2 /* GameOverScreen.sks */,
+				6CA5C2931E56A6E1009DD1E2 /* Menu.sks */,
+				6CD264021E56AB11001950EA /* Menu.swift */,
 				6C3D81E91E5648410003C091 /* GameViewController.swift */,
+				6C3D81E11E5648410003C091 /* AppDelegate.swift */,
+				6C3D81E51E5648410003C091 /* Actions.sks */,
 				6C3D81EB1E5648410003C091 /* Main.storyboard */,
 				6C3D81EE1E5648410003C091 /* Assets.xcassets */,
 				6C3D81F01E5648410003C091 /* LaunchScreen.storyboard */,
 				6C3D81F31E5648410003C091 /* Info.plist */,
+				6C56D67E1E63ABA400912A0E /* jg-032316-sfx-8-bit-pong-sound-2.mp3 */,
+				6C56D67F1E63ABA400912A0E /* jg-032316-sfx-ping-pong-paddle-hitting-ball.mp3 */,
+				6C56D6801E63ABA400912A0E /* ping-pong-3_M1dh_fVu.mp3 */,
+				6C56D6811E63ABA400912A0E /* jg-032316-sfx-fast-heartbeat-1.mp3 */,
+				6C56D6821E63ABA400912A0E /* water-movement-bubbles_MyoBQ9VO.mp3 */,
+				6C56D6831E63ABA400912A0E /* bubble-cartoon-slide-fast_MkO4sHNd.mp3 */,
+				6CB626DC1E6453A500E63166 /* cartoon-voice-male-boo-hoo-hoo-hoo_GkwGRLEu.mp3 */,
+				6C56D6841E63ABA400912A0E /* shine-ding_GyZLjr4O.mp3 */,
+				6CB626D81E6451C400E63166 /* jg-032316-sfx-elearning-pop-up-sound.mp3 */,
+				6CB626DA1E6452BD00E63166 /* bottles-clink-1_Gk_ETbEO.mp3 */,
 			);
 			path = ScreenChanges;
 			sourceTree = "<group>";
@@ -105,7 +147,7 @@
 				TargetAttributes = {
 					6C3D81DD1E5648410003C091 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = GVDGLD972H;
+						DevelopmentTeam = 58XU3V35UK;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -133,11 +175,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6C56D6871E63ABA400912A0E /* ping-pong-3_M1dh_fVu.mp3 in Resources */,
+				6C56D6891E63ABA400912A0E /* water-movement-bubbles_MyoBQ9VO.mp3 in Resources */,
+				6CB626DB1E6452BD00E63166 /* bottles-clink-1_Gk_ETbEO.mp3 in Resources */,
 				6C3D81ED1E5648410003C091 /* Main.storyboard in Resources */,
 				6C3D81E41E5648410003C091 /* GameScene.sks in Resources */,
 				6C3D81EF1E5648410003C091 /* Assets.xcassets in Resources */,
+				6C56D6881E63ABA400912A0E /* jg-032316-sfx-fast-heartbeat-1.mp3 in Resources */,
+				6C56D68A1E63ABA400912A0E /* bubble-cartoon-slide-fast_MkO4sHNd.mp3 in Resources */,
 				6C3D81F21E5648410003C091 /* LaunchScreen.storyboard in Resources */,
+				6C56D6851E63ABA400912A0E /* jg-032316-sfx-8-bit-pong-sound-2.mp3 in Resources */,
+				6C56D6861E63ABA400912A0E /* jg-032316-sfx-ping-pong-paddle-hitting-ball.mp3 in Resources */,
+				6CA5C2941E56A6E1009DD1E2 /* Menu.sks in Resources */,
+				6CB626D91E6451C400E63166 /* jg-032316-sfx-elearning-pop-up-sound.mp3 in Resources */,
+				6CB626DD1E6453A500E63166 /* cartoon-voice-male-boo-hoo-hoo-hoo_GkwGRLEu.mp3 in Resources */,
 				6C3D81E61E5648410003C091 /* Actions.sks in Resources */,
+				6CA5C2921E56A488009DD1E2 /* GameOverScreen.sks in Resources */,
+				6C56D68B1E63ABA400912A0E /* shine-ding_GyZLjr4O.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -150,7 +204,9 @@
 			files = (
 				6C3D81E81E5648410003C091 /* GameScene.swift in Sources */,
 				6C3D81EA1E5648410003C091 /* GameViewController.swift in Sources */,
+				6CD264031E56AB11001950EA /* Menu.swift in Sources */,
 				6C3D81E21E5648410003C091 /* AppDelegate.swift in Sources */,
+				6CD264291E56B694001950EA /* GameOverScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,7 +329,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = GVDGLD972H;
+				DEVELOPMENT_TEAM = 58XU3V35UK;
 				INFOPLIST_FILE = ScreenChanges/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yuryg.ScreenChanges;
@@ -286,7 +342,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = GVDGLD972H;
+				DEVELOPMENT_TEAM = 58XU3V35UK;
 				INFOPLIST_FILE = ScreenChanges/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yuryg.ScreenChanges;
@@ -314,6 +370,7 @@
 				6C3D81F81E5648410003C091 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
